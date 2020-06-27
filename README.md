@@ -6,12 +6,12 @@
 - JavaScript (External Script)
 - Adobe Photoshop
 
-#Features
--Image slider (JSON)
--Image slider (JavaScript)
--Input Validation
--Responsive until atleast 800 width
+# Features
+- Image slider (JSON)
+- Image slider (JavaScript)
+- Input Validation
+- Responsive with atleast 800 width
 
-#References
--<a href="https://www.ubisoft.com/en-gb/game/rainbow-six/siege">Rainbow Six Siege</a>
--<a href="https://playoverwatch.com/en-us/">Overwatch</a>
+# References
+- <a href="https://www.ubisoft.com/en-gb/game/rainbow-six/siege">Rainbow Six Siege</a>
+- <a href="https://playoverwatch.com/en-us/">Overwatch</a>
