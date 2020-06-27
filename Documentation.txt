@@ -1,0 +1,27 @@
+References:
+https://www.ubisoft.com/en-us/game/rainbow-six/siege
+https://playoverwatch.com/en-us/
+https://borderlands.com/en-US/
+https://www.wallpaperflare.com/video-game-tom-clancy-s-rainbow-six-siege-hammer-sledge-tom-clancy-s-rainbow-six-siege-wallpaper-gijww
+https://id.pinterest.com/pin/843158361463809357/
+https://www.uhdpaper.com/2019/10/kali-rainbow-six-siege-shifting-tides.html
+https://cutewallpaper.org/21/rainbow-six-siege-screensaver/view-page-21.html
+https://wallpapercave.com/r6-games-wallpapers
+
+Creativity:
+Homepage
+-Lastest news slider
+-Zoom image when cursor hovering news image
+
+Footer
+-Raise effect on Social Media Logo
+
+Operators
+-Slider page
+-in the bottom of operators page there is green dot to choose certain page
+
+Quarantine 
+-Pre-order Button hover effect
+
+Maps
+-Glowing Effect & Zoom Image when cursor hovering the maps image
